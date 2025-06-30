@@ -1,0 +1,17 @@
+{
+  "name": "love-page",
+  "version": "1.0.0",
+  "description": "Una hermosa página web romántica para mi pareja",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Build completed'",
+    "dev": "serve . -p 3000"
+  },
+  "keywords": ["love", "romantic", "website", "html", "css", "javascript"],
+  "author": "Tu nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
